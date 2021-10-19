@@ -44,5 +44,5 @@
 <h3>📈 My GitHub Stats</h3>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Athang9&show_icons=true&theme=dark&locale=en&layout=compact" alt="Athang Bhandarkar"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Athang9t&show_icons=true&theme=dark&locale=en" alt="Athang Bhandarkar" />
+<img src="https://github-readme-stats.vercel.app/api?username=Athang9&show_icons=true&theme=dark&locale=en" alt="Athang Bhandarkar" />
  </p>
