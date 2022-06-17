@@ -3,7 +3,7 @@
 <br><br>
 <img align="right" alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500" height="300"/>
 
-<br><br>
+<br>
 
 - 🔭 I’m currently working on Machine Learning
 
