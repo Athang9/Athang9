@@ -13,7 +13,7 @@
 
 - 🤔 I'm looking for help with... Azure and PowerBI
 
-- 💬 Ask me anything
+- 💬 Ask me anything **bhandarkarathang@gmail.com**
 
 <br>
 <br>
@@ -62,6 +62,5 @@
 <br>
 
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Athang0)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bhandarkarathang@gmail.com)
 
 <br>
