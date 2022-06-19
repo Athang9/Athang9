@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Power BI, Machine Learning.
 
-- 👯‍♀️ I'm looking to collaborate on... Data Science Projects.
+- 👯‍♀️ I'm looking to collaborate on... Data Science Projects..
 
 - 🤔 I'm looking for help with... Azure and PowerBI.
 
